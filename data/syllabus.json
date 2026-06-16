@@ -1,0 +1,64 @@
+{
+  "subjects": [
+    {
+      "name": "Database Management System (BCS501)",
+      "topics": [
+        "Introduction: Overview, Database System vs File System, Database System Concept and Architecture",
+        "Relational data Model and Language: Relational Data Model Concepts, Integrity Constraints",
+        "Data Base Design & Normalization: Functional dependencies, normal forms",
+        "Transaction Processing Concept: Transaction System, Testing of Serializability",
+        "Concurrency Control Techniques: Concurrency Control, Locking Techniques for Concurrency Control"
+      ]
+    },
+    {
+      "name": "Web Technology (BCS502)",
+      "topics": [
+        "Introduction: Introduction and Web Development Strategies, History of Web and Internet",
+        "CSS: Creating Style Sheet, CSS Properties, CSS Styling",
+        "Scripting: Java script: Introduction, documents, forms, statements, functions, objects",
+        "Enterprise Java Bean: Creating a JavaBeans, JavaBeans Properties, Types of beans",
+        "Servlets: Servlet Overview and Architecture, Interface Servlet and the Servlet Life Cycle"
+      ]
+    },
+    {
+      "name": "Design and Analysis of Algorithm (BCS503)",
+      "topics": [
+        "Introduction: Algorithms, Analyzing Algorithms, Complexity of Algorithms",
+        "Techniques for Designing Algorithms: Recursion, Divide-and-Conquer, Greedy",
+        "Sorting and Searching: Classical Sorting, Searching, Optimization and Graph Algorithms",
+        "Graph Algorithms: Graph Traversal, Shortest Path, Minimum Spanning Tree",
+        "Advanced Topics: Dynamic Programming, NP-Complete Problems"
+      ]
+    },
+    {
+      "name": "Software Engineering (BCS601)",
+      "topics": [
+        "Introduction to Software Engineering: Software Engineering Principles, Software Development Life Cycle",
+        "Software Requirements: Requirements Gathering, Requirements Specification",
+        "Software Design: Design Principles, Design Patterns, User Interface Design",
+        "Software Implementation: Programming Languages, Coding Standards, Testing",
+        "Software Testing and Maintenance: Testing Types, Testing Techniques, Maintenance"
+      ]
+    },
+    {
+      "name": "Compiler Design (BCS602)",
+      "topics": [
+        "Introduction to Compiler Design: Compiler Overview, Compiler Structure",
+        "Lexical Analysis: Tokenization, Regular Expressions, Finite Automata",
+        "Syntax Analysis: Context-Free Grammars, Parsing Techniques, Top-Down and Bottom-Up Parsing",
+        "Semantic Analysis: Attribute Grammars, Semantic Actions, Type Checking",
+        "Intermediate Code Generation: Three-Address Code, Quadruples, Triples"
+      ]
+    },
+    {
+      "name": "Computer Networks (BCS603)",
+      "topics": [
+        "Introduction to Computer Networks: Network Fundamentals, Network Types",
+        "Network Layer: IP Addressing, Routing, Congestion Control",
+        "Transport Layer: TCP, UDP, Sockets",
+        "Application Layer: HTTP, FTP, SMTP, DNS",
+        "Network Security: Security Threats, Security Measures, Firewalls, VPNs"
+      ]
+    }
+  ]
+}
