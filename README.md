@@ -84,16 +84,18 @@ The generated study plan can be exported as a PDF timetable.
 ## 📸 Screenshots
 
 ### Dashboard
+<img width="1067" height="747" alt="upload" src="https://github.com/user-attachments/assets/f51de81a-44e9-4393-b912-c0ee83f39133" />
 
-(Add screenshot here)
+
 
 ### Study Plan
+<img width="1057" height="716" alt="topics" src="https://github.com/user-attachments/assets/9259984d-4ffc-4d8b-8fec-614eeb03fb64" />
 
-(Add screenshot here)
 
 ### PDF Export
+<img width="705" height="595" alt="plan" src="https://github.com/user-attachments/assets/9b74fdf6-4720-4c4e-b765-38d70563e3b5" />
 
-(Add screenshot here)
+
 
 ---
 
