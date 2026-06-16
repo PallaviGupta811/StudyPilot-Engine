@@ -128,6 +128,11 @@ streamlit run app.py
 
 ---
 
+## Demo video
+
+<img width="400" height="204" alt="study pilot engine" src="https://github.com/user-attachments/assets/b8d200b7-6f37-4e35-91c3-2e527efac57c" />
+
+
 ## 🎯 Future Improvements
 
 * Email reminders
